@@ -28,6 +28,9 @@ Lets Encrypt(Optional)
 
 CuRL
 
+
+Additional Notes:
+
 To fix env: node\r: No such file or directory with cordova cli
 
 https://stackoverflow.com/questions/18492897/env-node-r-no-such-file-or-directory-with-cordova-cli
@@ -39,6 +42,14 @@ https://www.ionos.com/digitalguide/websites/web-development/nodejs-for-a-website
 
 
 Use Web Browser DevOps to debug.
+
+
+
+![image](https://user-images.githubusercontent.com/44829491/220494535-9ef4970e-83c8-4d9f-adcc-b407802458ce.png)
+
+
+
+![image](https://user-images.githubusercontent.com/44829491/220494700-c630b105-5093-4fb1-9272-0bfa7c52a3cd.png)
 
 
 
